@@ -1,5 +1,5 @@
 ## Omer
 
-Sophomore Computer Engineering Student at Istanbul University.
+jr Computer Engineering Student at Istanbul University.
 
                           
